@@ -1,0 +1,11 @@
+{
+  "name": "trix-score-app",
+  "private": true,
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "postinstall": "cd frontend && npm install",
+    "build": "cd frontend && npm run build"
+  }
+}
