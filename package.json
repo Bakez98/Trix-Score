@@ -2,7 +2,7 @@
   "name": "trix-score-app",
   "private": true,
   "engines": {
-    "node": "24.x"
+    "node": "22.x"
   },
   "scripts": {
     "postinstall": "cd frontend && npm install",
